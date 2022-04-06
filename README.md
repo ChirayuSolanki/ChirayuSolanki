@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on machine leanring projects,projects related to software programming.
 - 📫 You can reach me through 
--  gmail - chirayusolanki1608@gmail.com,solankichirayu306@gmail.com
+-  gmail - solankichirayu306@gmail.com,chirayusolanki1608@gmail.com
 
 <!---
 ChirayuSolanki/ChirayuSolanki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
